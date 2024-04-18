@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Currently Learning Web Dev and IOT
 
 <!--
 **AfenMarbun/AfenMarbun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
